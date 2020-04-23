@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Hello! I'm Yeyong Pi and this is my English tech [blog](/blog.github.io/). The most popular posts here are:
+Hello! I'm Yeyong Pi and this is my English tech [blog](/). The most popular posts here are:
 
 
 ### Contact me
